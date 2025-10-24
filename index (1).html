@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formal Autobiography of Ma. Fretzie Ann M. Remulta</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <style>
+    body {
+      font-family: 'Times New Roman', serif;
+      background-color: #f8f9fa;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      font-weight: bold; /* Made fonts bold globally */
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    header {
+      background: linear-gradient(135deg, #D8BFD8 0%, #E6E6FA 100%);
+      color: #4B0082;
+      text-align: center;
+      padding: 60px 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    header h1 {
+      margin: 0;
+      font-sizSentom;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+
+    header h2 {
+      margin-top: 10px;
+      font-weight: 300;
+      font-size: 1.4em;
+      opacity: 0.9;
+    }
+
+    .bio-container {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 40px 0;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+      overflow: hidden;
+    }
+
+    .bio-sidebar {
+      flex: 1;
+      min-width: 300px;
+      background-color: #f8f9fa;
+      padding: 40px;
+      text-align: center;
+      border-right: 1px solid #eee;
+    }
+
+    .bio-picture {
+      width: 200px;
+      height: 250px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+
+    .bio-sidebar h3 {
+      color: #ca9cca;
+      font-size: 1.5em;
+      margin-bottom: 15px;
+      font-weight: bold;
+    }
+
+    .bio-sidebar p {
+      margin: 10px 0;
+      font-weight: bold;
+    }
+
+    .bio-content {
+      flex: 2;
+      padding: 40px;
+      min-width: 400px;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    h3 {
+      color: #D8BFD8;
+      font-size: 1.6em;
+      font-weight: bold;
+      margin-bottom: 15px;
+      border-bottom: 2px solid #D8BFD8;
+      padding-bottom: 5px;
+    }
+
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    ul li {
+      margin-bottom: 8px;
+      padding-left: 20px;
+      position: relative;
+      font-weight: bold;
+    }
+
+    ul li::before {
+      content: "•";
+      color: #D8BFD8;
+      font-weight: bold;
+      position: absolute;
+      left: 0;
+    }
+
+    p {
+      text-align: justify;
+      margin-bottom: 15px;
+      font-weight: bold;
+    }
+
+    .quote-section {
+      background-color: #f8f9fa;
+      padding: 20px;
+      border-radius: 8px;
+      text-align: center;
+      font-style: italic;
+      color: #555;
+      margin: 20px 0;
+      font-weight: bold;
+    }
+
+    .closing {
+      font-style: italic;
+      text-align: center;
+      color: #555;
+      margin-top: 30px;
+      font-size: 1.1em;
+      font-weight: bold;
+    }
+
+    footer {
+      text-align: center;
+      color: #777;
+      padding: 20px;
+      font-size: 0.9em;
+      border-top: 1px solid #eee;
+      background-color: #f8f9fa;
+      font-weight: bold;
+    }
+
+    @media (max-width: 768px) {
+      .bio-container {
+        flex-direction: column;
+      }
+      .bio-sidebar {
+        border-right: none;
+        border-bottom: 1px solid #eee;
+      }
+      header h1 {
+        font-size: 2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Autobiography of Ma. Fretzie Ann M. Remulta</h1>
+      <h2>The Unexpected Journey of me</h2>
+    </header>
+
+    <div class="bio-container">
+      <div class="bio-sidebar">
+     
+        <h3>Ma. Fretzie Ann M. Remulta</h3>
+        <p><strong>Nickname:</strong> Fretz</p>
+        <p><strong>Birthdate:</strong> June 09, 2006</p>
+        <p><strong>Birthplace:</strong> Cebu City</p>
+        <p><strong>Current Status:</strong> College Student</p>
+      </div>
+
+      <div class="bio-content">
+        <section>
+          <h3>Introduction</h3>
+          <p>My name is Ma. Fretzie Ann M. Remulta, born on June 09, 2006, im a 19 years old Technology student at Lapu - Lapu City College. My autobiography tells the story of my resilience as i navigates life, pursuing my dreams despite coming from a broken family. </p>
